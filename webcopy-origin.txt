@@ -1,0 +1,44 @@
+Uri: https://avia-code.github.io/
+File Name: D:\Sites\avia-code.github.io\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500,700&subset=cyrillic
+File Name: D:\Sites\avia-code.github.io\css.css
+Content Type: text/css
+
+Uri: https://avia-code.github.io/style.css
+File Name: D:\Sites\avia-code.github.io\style.css
+Content Type: text/css
+
+Uri: https://avia-code.github.io/configuration.css
+File Name: D:\Sites\avia-code.github.io\configuration.css
+Content Type: text/css
+
+Uri: https://avia-code.github.io/emulation.css
+File Name: D:\Sites\avia-code.github.io\emulation.css
+Content Type: text/css
+
+Uri: https://avia-code.github.io/icon-128x128.png
+File Name: D:\Sites\avia-code.github.io\icon-128x128.png
+Content Type: image/png
+
+Uri: https://avia-code.github.io/manifest.json
+File Name: D:\Sites\avia-code.github.io\manifest.json
+Content Type: application/json
+
+Uri: https://avia-code.github.io/ticket.jpg
+File Name: D:\Sites\avia-code.github.io\ticket.jpg
+Content Type: image/jpeg
+
+Uri: https://avia-code.github.io/main.js
+File Name: D:\Sites\avia-code.github.io\main.js
+Content Type: application/javascript
+
+Uri: https://avia-code.github.io/left-arrow.svg
+File Name: D:\Sites\avia-code.github.io\left-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://avia-code.github.io/company.jpg
+File Name: D:\Sites\avia-code.github.io\company.jpg
+Content Type: image/jpeg
+
